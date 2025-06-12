@@ -1,6 +1,3 @@
-# Sales-Dashboard-Replicated---Power-Bi-
-
-Thank you for sharing your dashboard screenshot — it looks clean and well-structured. I can help you draft a polished and informative README.md write-up for your GitHub repository. Here’s a suggested template you can use or tweak to suit your preference:
 
 # 📊 Sales Replication Project Dashboard (Power BI)
 
@@ -60,11 +57,10 @@ The goal of this project was to design a comprehensive and interactive **Sales P
 
 ## 📢 Feedback & Suggestions
 
-I welcome feedback, suggestions, or collaboration opportunities to improve this project or build related data visualization solutions. Feel free to connect with me on **[LinkedIn](#)** or drop a comment!
+I welcome feedback, suggestions, or collaboration opportunities to improve this project or build related data visualization solutions.
 
 ---
 
 ## 📎 License
 
 This project is open-source and available for personal use, learning, and portfolio development.
-ith your GitHub and LinkedIn links?
