@@ -26,25 +26,6 @@ The goal of this project was to design a comprehensive and interactive **Sales P
 * **DAX (Data Analysis Expressions)**
 * **Power Query Editor**
 * **Excel (for initial data source)**
-
----
-
-## 📚 What I Learned
-
-* Data cleaning and preparation using **Power Query**.
-* Creating and managing relationships in a **data model**.
-* Developing calculated measures and KPIs using **DAX**.
-* Designing interactive and dynamic visuals for business reporting.
-* Implementing slicers and filters for improved data exploration.
-
----
-
-## 📂 Project Files
-
-* 📄 Power BI (.pbix) file
-* 📊 Excel data source file (optional)
-* 📷 Dashboard screenshot
-
 ---
 
 ## 📌 How to View
