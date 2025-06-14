@@ -26,13 +26,6 @@ The goal of this project was to design a comprehensive and interactive **Sales P
 * **DAX (Data Analysis Expressions)**
 * **Power Query Editor**
 * **Excel (for initial data source)**
----
-
-## 📌 How to View
-
-1. Download the `.pbix` file from this repository.
-2. Open with **Microsoft Power BI Desktop**.
-3. Interact with the dashboard to explore different sales insights.
 
 ---
 
